@@ -1,3 +1,3 @@
-# Collection of interesting projects from the students of previous semesters.
+# Interesting projects from the students of previous semesters.
 
-[See the wiki](https://github.com/msssm/interesting_projects/wiki) 
+**[See the wiki](https://github.com/msssm/interesting_projects/wiki)**
